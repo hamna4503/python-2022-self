@@ -3,4 +3,4 @@ STDIN=int(input())
 STDOUT =set()
 for i in range(1,STDIN+1):
     STDOUT.add(input())
-print(len(STDOUT))    
+print(len(STDOUT),"HEHE")    
